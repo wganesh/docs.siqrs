@@ -1,8 +1,5 @@
 FIN102
 ===
 
-.. autosummary::
-   :toctree: generated
-
-   Learning Outcome
-   ----------------
+Learning Outcome
+----------------
