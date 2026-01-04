@@ -18,5 +18,8 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   FIN101 - Money, Inflation, and Economic Cycles
+   FIN102 — Stock Market & Financial Instruments
+   FIN201 — Options, Futures & Derivatives
+   FIN202 — Advanced Instruments & Market Analysis
+   FIN301 — Portfolio Management
