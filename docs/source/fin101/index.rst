@@ -1,5 +1,5 @@
-FINXXX — Course Title
-=====================
+Fin101 — Money, Inflation, and Economic Cycles
+==============================================
 
 .. toctree::
    :maxdepth: 1
