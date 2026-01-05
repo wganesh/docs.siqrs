@@ -4,9 +4,9 @@ Fin101 — Money, Inflation, and Economic Cycles
 .. toctree::
    :maxdepth: 1
 
-   01-chapter
-   02-chapter
-   03-chapter
+   01-what-is-money
+   02-how-money-is-created
+   03-inflation
 
 Learning Objectives
 -------------------
